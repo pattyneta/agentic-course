@@ -1,0 +1,50 @@
+{
+  "CR-1001": [
+    { "cabinType": "Inside", "grade": "IA", "pricePerPersonGbp": 1249, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 1449, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BA", "pricePerPersonGbp": 1699, "availability": "limited" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 2599, "availability": "sold_out" }
+  ],
+  "CR-1002": [
+    { "cabinType": "Inside", "grade": "IA", "pricePerPersonGbp": 1395, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 1595, "availability": "limited" },
+    { "cabinType": "Balcony", "grade": "BA", "pricePerPersonGbp": 1895, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 2995, "availability": "available" }
+  ],
+  "CR-1003": [
+    { "cabinType": "Inside", "grade": "IB", "pricePerPersonGbp": 1899, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 2149, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BB", "pricePerPersonGbp": 2499, "availability": "available" },
+    { "cabinType": "Family Suite", "grade": "FS", "pricePerPersonGbp": 3299, "availability": "limited" }
+  ],
+  "CR-2001": [
+    { "cabinType": "Inside", "grade": "IA", "pricePerPersonGbp": 1149, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 1349, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BA", "pricePerPersonGbp": 1649, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 2449, "availability": "limited" }
+  ],
+  "CR-2002": [
+    { "cabinType": "Inside", "grade": "IA", "pricePerPersonGbp": 2350, "availability": "limited" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 2650, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BA", "pricePerPersonGbp": 3100, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 4200, "availability": "sold_out" }
+  ],
+  "CR-3001": [
+    { "cabinType": "Inside", "grade": "IC", "pricePerPersonGbp": 2799, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 3199, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BC", "pricePerPersonGbp": 3699, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 5499, "availability": "limited" }
+  ],
+  "CR-3002": [
+    { "cabinType": "Inside", "grade": "IC", "pricePerPersonGbp": 1490, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 1690, "availability": "available" },
+    { "cabinType": "Balcony", "grade": "BC", "pricePerPersonGbp": 1990, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 3190, "availability": "available" }
+  ],
+  "CR-4001": [
+    { "cabinType": "Inside", "grade": "IA", "pricePerPersonGbp": 1050, "availability": "available" },
+    { "cabinType": "Ocean View", "grade": "OV", "pricePerPersonGbp": 1250, "availability": "limited" },
+    { "cabinType": "Balcony", "grade": "BA", "pricePerPersonGbp": 1550, "availability": "available" },
+    { "cabinType": "Suite", "grade": "SU", "pricePerPersonGbp": 2350, "availability": "available" }
+  ]
+}

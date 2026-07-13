@@ -1,0 +1,98 @@
+[
+  {
+    "cruiseId": "CR-1001",
+    "name": "Mediterranean Highlights",
+    "line": "Azure Voyages",
+    "ship": "MV Serenata",
+    "region": "Mediterranean",
+    "nights": 7,
+    "departurePort": "Barcelona",
+    "arrivalPort": "Rome (Civitavecchia)",
+    "departureDates": ["2026-09-05", "2026-09-19", "2026-10-03"],
+    "leadPriceGbp": 1249
+  },
+  {
+    "cruiseId": "CR-1002",
+    "name": "Greek Isles Explorer",
+    "line": "Azure Voyages",
+    "ship": "MV Serenata",
+    "region": "Mediterranean",
+    "nights": 7,
+    "departurePort": "Athens (Piraeus)",
+    "arrivalPort": "Athens (Piraeus)",
+    "departureDates": ["2026-08-22", "2026-09-12"],
+    "leadPriceGbp": 1395
+  },
+  {
+    "cruiseId": "CR-1003",
+    "name": "Western Med Family Escape",
+    "line": "Sunward Cruises",
+    "ship": "Sunward Star",
+    "region": "Mediterranean",
+    "nights": 10,
+    "departurePort": "Southampton",
+    "arrivalPort": "Southampton",
+    "departureDates": ["2026-08-14", "2026-09-04"],
+    "leadPriceGbp": 1899
+  },
+  {
+    "cruiseId": "CR-2001",
+    "name": "Norwegian Fjords Discovery",
+    "line": "Polar Line",
+    "ship": "Aurora Spirit",
+    "region": "Northern Europe",
+    "nights": 7,
+    "departurePort": "Southampton",
+    "arrivalPort": "Southampton",
+    "departureDates": ["2026-07-25", "2026-08-08", "2026-08-29"],
+    "leadPriceGbp": 1149
+  },
+  {
+    "cruiseId": "CR-2002",
+    "name": "Baltic Capitals",
+    "line": "Polar Line",
+    "ship": "Aurora Spirit",
+    "region": "Northern Europe",
+    "nights": 12,
+    "departurePort": "Copenhagen",
+    "arrivalPort": "Copenhagen",
+    "departureDates": ["2026-08-02"],
+    "leadPriceGbp": 2350
+  },
+  {
+    "cruiseId": "CR-3001",
+    "name": "Caribbean Sun Seeker",
+    "line": "Sunward Cruises",
+    "ship": "Sunward Breeze",
+    "region": "Caribbean",
+    "nights": 14,
+    "departurePort": "Miami",
+    "arrivalPort": "Miami",
+    "departureDates": ["2026-11-07", "2026-11-28", "2026-12-12"],
+    "leadPriceGbp": 2799
+  },
+  {
+    "cruiseId": "CR-3002",
+    "name": "Eastern Caribbean Quickstep",
+    "line": "Sunward Cruises",
+    "ship": "Sunward Breeze",
+    "region": "Caribbean",
+    "nights": 7,
+    "departurePort": "Miami",
+    "arrivalPort": "Miami",
+    "departureDates": ["2026-10-17", "2026-10-31"],
+    "leadPriceGbp": 1490
+  },
+  {
+    "cruiseId": "CR-4001",
+    "name": "Canary Islands Winter Sun",
+    "line": "Azure Voyages",
+    "ship": "MV Cantabile",
+    "region": "Atlantic Islands",
+    "nights": 9,
+    "departurePort": "Southampton",
+    "arrivalPort": "Southampton",
+    "departureDates": ["2026-11-14", "2026-12-05"],
+    "leadPriceGbp": 1050
+  }
+]

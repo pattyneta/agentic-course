@@ -1,0 +1,99 @@
+{
+  "CR-1001": [
+    { "day": 1, "port": "Barcelona, Spain", "arrive": null, "depart": "18:00" },
+    { "day": 2, "port": "Palma de Mallorca, Spain", "arrive": "08:00", "depart": "17:00" },
+    { "day": 3, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 4, "port": "Valletta, Malta", "arrive": "09:00", "depart": "18:00" },
+    { "day": 5, "port": "Catania (Sicily), Italy", "arrive": "08:00", "depart": "16:00" },
+    { "day": 6, "port": "Naples, Italy", "arrive": "07:00", "depart": "18:00" },
+    { "day": 7, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 8, "port": "Rome (Civitavecchia), Italy", "arrive": "06:00", "depart": null }
+  ],
+  "CR-1002": [
+    { "day": 1, "port": "Athens (Piraeus), Greece", "arrive": null, "depart": "17:00" },
+    { "day": 2, "port": "Mykonos, Greece", "arrive": "08:00", "depart": "22:00" },
+    { "day": 3, "port": "Kusadasi (Ephesus), Turkey", "arrive": "07:00", "depart": "15:00" },
+    { "day": 4, "port": "Rhodes, Greece", "arrive": "09:00", "depart": "18:00" },
+    { "day": 5, "port": "Santorini, Greece", "arrive": "07:00", "depart": "20:00" },
+    { "day": 6, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 7, "port": "Nafplion, Greece", "arrive": "08:00", "depart": "16:00" },
+    { "day": 8, "port": "Athens (Piraeus), Greece", "arrive": "05:00", "depart": null }
+  ],
+  "CR-1003": [
+    { "day": 1, "port": "Southampton, UK", "arrive": null, "depart": "16:30" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 4, "port": "Lisbon, Portugal", "arrive": "08:00", "depart": "17:00" },
+    { "day": 5, "port": "Gibraltar", "arrive": "09:00", "depart": "14:00" },
+    { "day": 6, "port": "Barcelona, Spain", "arrive": "10:00", "depart": "19:00" },
+    { "day": 7, "port": "Palma de Mallorca, Spain", "arrive": "08:00", "depart": "17:00" },
+    { "day": 8, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 9, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 10, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 11, "port": "Southampton, UK", "arrive": "06:30", "depart": null }
+  ],
+  "CR-2001": [
+    { "day": 1, "port": "Southampton, UK", "arrive": null, "depart": "17:00" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "Stavanger, Norway", "arrive": "08:00", "depart": "17:00" },
+    { "day": 4, "port": "Olden, Norway", "arrive": "09:00", "depart": "18:00" },
+    { "day": 5, "port": "Geiranger, Norway", "arrive": "08:00", "depart": "16:00" },
+    { "day": 6, "port": "Bergen, Norway", "arrive": "08:00", "depart": "15:00" },
+    { "day": 7, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 8, "port": "Southampton, UK", "arrive": "06:00", "depart": null }
+  ],
+  "CR-2002": [
+    { "day": 1, "port": "Copenhagen, Denmark", "arrive": null, "depart": "17:00" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "Tallinn, Estonia", "arrive": "10:00", "depart": "18:00" },
+    { "day": 4, "port": "Helsinki, Finland", "arrive": "08:00", "depart": "17:00" },
+    { "day": 5, "port": "Stockholm, Sweden", "arrive": "09:00", "depart": "17:00" },
+    { "day": 6, "port": "Visby, Sweden", "arrive": "08:00", "depart": "16:00" },
+    { "day": 7, "port": "Gdansk, Poland", "arrive": "07:00", "depart": "15:00" },
+    { "day": 8, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 9, "port": "Klaipeda, Lithuania", "arrive": "08:00", "depart": "17:00" },
+    { "day": 10, "port": "Riga, Latvia", "arrive": "08:00", "depart": "16:00" },
+    { "day": 11, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 12, "port": "Ronne, Denmark", "arrive": "08:00", "depart": "16:00" },
+    { "day": 13, "port": "Copenhagen, Denmark", "arrive": "07:00", "depart": null }
+  ],
+  "CR-3001": [
+    { "day": 1, "port": "Miami, USA", "arrive": null, "depart": "16:00" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "San Juan, Puerto Rico", "arrive": "13:00", "depart": "21:00" },
+    { "day": 4, "port": "Philipsburg, St Maarten", "arrive": "08:00", "depart": "17:00" },
+    { "day": 5, "port": "Basseterre, St Kitts", "arrive": "08:00", "depart": "17:00" },
+    { "day": 6, "port": "Bridgetown, Barbados", "arrive": "09:00", "depart": "18:00" },
+    { "day": 7, "port": "Castries, St Lucia", "arrive": "08:00", "depart": "17:00" },
+    { "day": 8, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 9, "port": "Willemstad, Curacao", "arrive": "08:00", "depart": "20:00" },
+    { "day": 10, "port": "Oranjestad, Aruba", "arrive": "08:00", "depart": "17:00" },
+    { "day": 11, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 12, "port": "Georgetown, Grand Cayman", "arrive": "08:00", "depart": "16:00" },
+    { "day": 13, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 14, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 15, "port": "Miami, USA", "arrive": "06:00", "depart": null }
+  ],
+  "CR-3002": [
+    { "day": 1, "port": "Miami, USA", "arrive": null, "depart": "16:30" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "San Juan, Puerto Rico", "arrive": "15:00", "depart": "22:00" },
+    { "day": 4, "port": "Charlotte Amalie, St Thomas", "arrive": "08:00", "depart": "17:00" },
+    { "day": 5, "port": "Puerto Plata, Dominican Republic", "arrive": "09:00", "depart": "18:00" },
+    { "day": 6, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 7, "port": "Nassau, Bahamas", "arrive": "08:00", "depart": "17:00" },
+    { "day": 8, "port": "Miami, USA", "arrive": "06:00", "depart": null }
+  ],
+  "CR-4001": [
+    { "day": 1, "port": "Southampton, UK", "arrive": null, "depart": "17:00" },
+    { "day": 2, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 3, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 4, "port": "Funchal, Madeira", "arrive": "08:00", "depart": "18:00" },
+    { "day": 5, "port": "Santa Cruz de Tenerife, Spain", "arrive": "08:00", "depart": "17:00" },
+    { "day": 6, "port": "Las Palmas, Gran Canaria, Spain", "arrive": "08:00", "depart": "17:00" },
+    { "day": 7, "port": "Arrecife, Lanzarote, Spain", "arrive": "08:00", "depart": "16:00" },
+    { "day": 8, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 9, "port": "At sea", "arrive": null, "depart": null },
+    { "day": 10, "port": "Southampton, UK", "arrive": "06:30", "depart": null }
+  ]
+}

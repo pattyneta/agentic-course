@@ -1,0 +1,121 @@
+bookingId,bookingDate,cruiseId,cruiseName,region,nights,cabinType,passengers,totalPriceGbp,channel,status
+BK-20260102,2026-01-02,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,2,2960.81,agent,confirmed
+BK-20260001,2026-01-03,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,2,5512.04,phone,amended
+BK-20260022,2026-01-03,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,3,4595.09,web,cancelled
+BK-20260046,2026-01-03,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Balcony,1,1483.92,web,confirmed
+BK-20260096,2026-01-03,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Suite,1,2106.97,phone,confirmed
+BK-20260044,2026-01-05,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,4,6561.78,web,cancelled
+BK-20260073,2026-01-05,CR-3001,Caribbean Sun Seeker,Caribbean,14,Balcony,3,10771.04,phone,confirmed
+BK-20260056,2026-01-09,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Balcony,2,3844.84,web,confirmed
+BK-20260021,2026-01-12,CR-3001,Caribbean Sun Seeker,Caribbean,14,Suite,2,12574.65,web,confirmed
+BK-20260050,2026-01-12,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Ocean View,4,5687.21,phone,amended
+BK-20260106,2026-01-18,CR-2002,Baltic Capitals,Northern Europe,12,Inside,2,5042.58,phone,amended
+BK-20260037,2026-01-19,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,2,3424.09,phone,confirmed
+BK-20260085,2026-01-19,CR-1002,Greek Isles Explorer,Mediterranean,7,Ocean View,2,2968.3,web,cancelled
+BK-20260103,2026-01-19,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,1,1025.71,phone,confirmed
+BK-20260059,2026-01-22,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Balcony,2,3425.42,phone,confirmed
+BK-20260048,2026-01-23,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,2,3280.34,phone,confirmed
+BK-20260005,2026-01-24,CR-3001,Caribbean Sun Seeker,Caribbean,14,Balcony,1,3823.56,web,confirmed
+BK-20260117,2026-01-25,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,3,5418.88,phone,confirmed
+BK-20260015,2026-01-28,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,1,989.03,agent,confirmed
+BK-20260027,2026-01-28,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,2,2832.73,phone,confirmed
+BK-20260049,2026-02-02,CR-3001,Caribbean Sun Seeker,Caribbean,14,Ocean View,2,6319.58,web,confirmed
+BK-20260038,2026-02-03,CR-1001,Mediterranean Highlights,Mediterranean,7,Inside,1,1297.72,agent,confirmed
+BK-20260086,2026-02-03,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Suite,4,12687.41,agent,confirmed
+BK-20260065,2026-02-05,CR-2002,Baltic Capitals,Northern Europe,12,Ocean View,1,2499.5,web,confirmed
+BK-20260058,2026-02-09,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,3,7969.07,phone,confirmed
+BK-20260101,2026-02-10,CR-2002,Baltic Capitals,Northern Europe,12,Inside,1,2268.92,web,confirmed
+BK-20260110,2026-02-10,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Balcony,2,3009.04,agent,confirmed
+BK-20260018,2026-02-15,CR-1002,Greek Isles Explorer,Mediterranean,7,Balcony,2,3467.62,agent,confirmed
+BK-20260084,2026-02-15,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,3,3338.66,web,confirmed
+BK-20260012,2026-02-19,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Balcony,2,4406.29,web,confirmed
+BK-20260039,2026-02-19,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,3,4643.9,phone,confirmed
+BK-20260047,2026-02-21,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,1,1881.68,web,confirmed
+BK-20260067,2026-02-21,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Suite,2,4552.64,web,confirmed
+BK-20260108,2026-02-21,CR-1001,Mediterranean Highlights,Mediterranean,7,Inside,1,1201.79,agent,confirmed
+BK-20260112,2026-02-21,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,3,4245.6,web,confirmed
+BK-20260040,2026-02-22,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Balcony,2,4277.41,web,confirmed
+BK-20260116,2026-02-22,CR-2002,Baltic Capitals,Northern Europe,12,Inside,2,5109.8,phone,cancelled
+BK-20260051,2026-02-26,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,1,2363.26,phone,confirmed
+BK-20260088,2026-03-03,CR-3001,Caribbean Sun Seeker,Caribbean,14,Suite,4,23438.2,web,confirmed
+BK-20260004,2026-03-04,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,1,2049.65,web,confirmed
+BK-20260032,2026-03-06,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Suite,2,4596.47,web,confirmed
+BK-20260043,2026-03-06,CR-1002,Greek Isles Explorer,Mediterranean,7,Ocean View,2,3233.0,phone,confirmed
+BK-20260036,2026-03-07,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Ocean View,2,2689.69,phone,cancelled
+BK-20260080,2026-03-07,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,2,3409.19,web,confirmed
+BK-20260000,2026-03-08,CR-1002,Greek Isles Explorer,Mediterranean,7,Inside,4,5382.7,agent,confirmed
+BK-20260055,2026-03-09,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,2,3139.49,web,confirmed
+BK-20260076,2026-03-10,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Suite,2,6540.88,phone,cancelled
+BK-20260074,2026-03-11,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Inside,2,2363.54,phone,confirmed
+BK-20260119,2026-03-11,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Balcony,2,2988.17,web,confirmed
+BK-20260014,2026-03-12,CR-2002,Baltic Capitals,Northern Europe,12,Suite,3,13930.25,web,confirmed
+BK-20260089,2026-03-12,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Suite,2,6396.84,phone,confirmed
+BK-20260077,2026-03-14,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Suite,2,4791.59,phone,confirmed
+BK-20260030,2026-03-15,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Balcony,2,4396.2,web,confirmed
+BK-20260016,2026-03-20,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,2,3335.29,phone,confirmed
+BK-20260060,2026-03-22,CR-1002,Greek Isles Explorer,Mediterranean,7,Balcony,3,5659.23,phone,confirmed
+BK-20260009,2026-03-23,CR-3001,Caribbean Sun Seeker,Caribbean,14,Ocean View,4,14257.33,agent,confirmed
+BK-20260031,2026-03-26,CR-1001,Mediterranean Highlights,Mediterranean,7,Suite,4,11187.47,web,confirmed
+BK-20260035,2026-03-26,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,2,3209.54,web,confirmed
+BK-20260052,2026-03-26,CR-1003,Western Med Family Escape,Mediterranean,10,Balcony,1,2702.04,agent,confirmed
+BK-20260104,2026-03-28,CR-3001,Caribbean Sun Seeker,Caribbean,14,Ocean View,2,6537.78,web,confirmed
+BK-20260072,2026-04-03,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Ocean View,2,2566.44,web,confirmed
+BK-20260109,2026-04-03,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,2,4155.02,phone,confirmed
+BK-20260013,2026-04-05,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Suite,4,8377.32,web,cancelled
+BK-20260028,2026-04-05,CR-2002,Baltic Capitals,Northern Europe,12,Suite,2,10258.1,phone,cancelled
+BK-20260078,2026-04-05,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Ocean View,1,1912.51,phone,confirmed
+BK-20260034,2026-04-07,CR-1003,Western Med Family Escape,Mediterranean,10,Suite,2,8509.44,web,confirmed
+BK-20260042,2026-04-07,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,2,2144.47,web,confirmed
+BK-20260026,2026-04-08,CR-3001,Caribbean Sun Seeker,Caribbean,14,Inside,3,8713.47,web,confirmed
+BK-20260098,2026-04-09,CR-3001,Caribbean Sun Seeker,Caribbean,14,Balcony,4,14832.33,web,confirmed
+BK-20260100,2026-04-09,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Ocean View,4,5628.51,phone,amended
+BK-20260107,2026-04-10,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Suite,2,5144.46,phone,confirmed
+BK-20260054,2026-04-12,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Ocean View,1,1296.29,web,confirmed
+BK-20260010,2026-04-13,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,2,4254.09,agent,cancelled
+BK-20260025,2026-04-15,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Balcony,2,3798.52,web,confirmed
+BK-20260097,2026-04-17,CR-2002,Baltic Capitals,Northern Europe,12,Balcony,2,6273.63,agent,cancelled
+BK-20260023,2026-04-18,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,4,8325.06,phone,amended
+BK-20260008,2026-04-21,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,2,6216.08,web,confirmed
+BK-20260090,2026-04-21,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Ocean View,4,6675.91,phone,confirmed
+BK-20260063,2026-04-22,CR-3001,Caribbean Sun Seeker,Caribbean,14,Suite,2,11048.31,phone,confirmed
+BK-20260017,2026-04-25,CR-1001,Mediterranean Highlights,Mediterranean,7,Inside,4,4862.93,agent,confirmed
+BK-20260029,2026-04-26,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Ocean View,1,1209.2,web,confirmed
+BK-20260115,2026-05-02,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Suite,2,4726.39,agent,confirmed
+BK-20260082,2026-05-03,CR-1001,Mediterranean Highlights,Mediterranean,7,Balcony,2,3629.43,agent,confirmed
+BK-20260045,2026-05-07,CR-1003,Western Med Family Escape,Mediterranean,10,Balcony,2,5453.0,web,confirmed
+BK-20260007,2026-05-08,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Inside,2,2469.46,web,confirmed
+BK-20260019,2026-05-10,CR-1003,Western Med Family Escape,Mediterranean,10,Inside,1,2066.75,phone,amended
+BK-20260041,2026-05-10,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Ocean View,4,6932.44,web,confirmed
+BK-20260061,2026-05-13,CR-1003,Western Med Family Escape,Mediterranean,10,Ocean View,2,4609.95,web,amended
+BK-20260079,2026-05-14,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Inside,2,2822.48,phone,confirmed
+BK-20260118,2026-05-14,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Balcony,2,2968.12,phone,confirmed
+BK-20260033,2026-05-18,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,2,2283.13,web,confirmed
+BK-20260066,2026-05-19,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,2,5484.35,agent,confirmed
+BK-20260006,2026-05-20,CR-1002,Greek Isles Explorer,Mediterranean,7,Balcony,1,2066.1,web,cancelled
+BK-20260087,2026-05-20,CR-1002,Greek Isles Explorer,Mediterranean,7,Balcony,1,2035.99,phone,confirmed
+BK-20260064,2026-05-21,CR-1002,Greek Isles Explorer,Mediterranean,7,Balcony,3,5897.5,web,confirmed
+BK-20260105,2026-05-22,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,3,2931.77,web,cancelled
+BK-20260002,2026-05-23,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,4,5911.95,web,confirmed
+BK-20260094,2026-05-23,CR-2002,Baltic Capitals,Northern Europe,12,Balcony,2,6954.26,phone,confirmed
+BK-20260062,2026-06-01,CR-2002,Baltic Capitals,Northern Europe,12,Suite,3,14174.65,web,confirmed
+BK-20260083,2026-06-01,CR-1001,Mediterranean Highlights,Mediterranean,7,Ocean View,2,2999.87,web,confirmed
+BK-20260081,2026-06-03,CR-2002,Baltic Capitals,Northern Europe,12,Suite,2,9770.48,agent,cancelled
+BK-20260053,2026-06-04,CR-2002,Baltic Capitals,Northern Europe,12,Ocean View,1,2693.06,web,confirmed
+BK-20260003,2026-06-06,CR-2002,Baltic Capitals,Northern Europe,12,Inside,1,2490.13,web,confirmed
+BK-20260020,2026-06-06,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Ocean View,2,2716.37,phone,confirmed
+BK-20260113,2026-06-10,CR-1002,Greek Isles Explorer,Mediterranean,7,Inside,2,2898.83,phone,confirmed
+BK-20260114,2026-06-10,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Inside,2,2225.89,web,confirmed
+BK-20260093,2026-06-11,CR-3001,Caribbean Sun Seeker,Caribbean,14,Inside,2,5353.75,web,confirmed
+BK-20260095,2026-06-14,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Inside,2,2338.71,web,confirmed
+BK-20260069,2026-06-15,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,2,6025.58,phone,amended
+BK-20260092,2026-06-15,CR-2002,Baltic Capitals,Northern Europe,12,Suite,2,9962.3,agent,confirmed
+BK-20260071,2026-06-16,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Ocean View,4,4878.37,web,confirmed
+BK-20260068,2026-06-17,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Ocean View,1,1338.41,phone,confirmed
+BK-20260099,2026-06-18,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Balcony,2,3444.1,agent,confirmed
+BK-20260075,2026-06-19,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Suite,2,5225.39,web,cancelled
+BK-20260091,2026-06-19,CR-4001,Canary Islands Winter Sun,Atlantic Islands,9,Suite,1,2095.84,web,confirmed
+BK-20260024,2026-06-24,CR-3002,Eastern Caribbean Quickstep,Caribbean,7,Ocean View,3,5438.51,agent,confirmed
+BK-20260070,2026-06-24,CR-3001,Caribbean Sun Seeker,Caribbean,14,Suite,3,18907.76,phone,cancelled
+BK-20260011,2026-06-25,CR-2001,Norwegian Fjords Discovery,Northern Europe,7,Balcony,1,1444.41,web,confirmed
+BK-20260057,2026-06-26,CR-1002,Greek Isles Explorer,Mediterranean,7,Suite,2,5620.76,phone,confirmed
+BK-20260111,2026-06-26,CR-1002,Greek Isles Explorer,Mediterranean,7,Ocean View,2,3352.92,agent,confirmed
