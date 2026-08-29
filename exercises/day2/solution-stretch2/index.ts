@@ -102,6 +102,14 @@ const tools: Anthropic.Tool[] = [
 
 const rl = createInterface({ input: process.stdin, output: process.stdout });
 
+// Ctrl+C should exit cleanly (same as typing "quit") rather than dying with
+// an abrupt readline error mid-question.
+rl.on("SIGINT", () => {
+  console.log("\nGoodbye!");
+  rl.close();
+  process.exit(0);
+});
+
 // A small terminal spinner shown while waiting on a Claude API call.
 // No-op when stdout isn't a TTY (piped/redirected output) so it never
 // garbles logs or scripted runs.
@@ -163,7 +171,8 @@ async function runTool(name: string, input: unknown): Promise<{ result: unknown;
   }
 }
 
-const EXIT_WORDS = new Set(["quit", "exit"]);
+const EXIT_WORDS = new Set(["quit", "exit", "q"]);
+const PROMPT = "You (type 'quit' to exit): ";
 
 // 3. Run the tool loop for one user turn: keep calling Claude and executing
 //    tool_use blocks until it stops asking for tools, then return the final
@@ -212,7 +221,7 @@ async function main() {
 
   const messages: Anthropic.MessageParam[] = [];
   let userInput = initialQuestion;
-  console.log(`You: ${userInput}`);
+  console.log(`${PROMPT}${userInput}`);
 
   while (true) {
     messages.push({ role: "user", content: userInput });
@@ -225,7 +234,7 @@ async function main() {
       .join("\n");
     console.log(`\nClaude: ${text}\n`);
 
-    const next = (await rl.question("You: ")).trim();
+    const next = (await rl.question(PROMPT)).trim();
     if (EXIT_WORDS.has(next.toLowerCase())) {
       console.log("Goodbye!");
       break;
